@@ -1,0 +1,10 @@
+version: "3.7"
+
+services:
+  gdoc:
+    image: gdoc/gdoc
+    volumes:
+      - "./build:/app/build"
+    expose:
+      - "80"
+    command: "npm run serve -- --build --port 80 --host 0.0.0.0"
