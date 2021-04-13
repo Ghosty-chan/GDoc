@@ -13,4 +13,11 @@ jobs:
         username: ${{ secrets.USERNAME }}
         password: ${{ secrets.PASSWORD }}
         port: ${{ secrets.PORT }}
-        script: whoami
+        script: |
+          whoami
+          ls -al
+          git checkout master
+          cp ../Prepare_GDoc/docker-compose.yml ./
+          docker build -t gdoc/gdoc --network=host .
+          docker-compose down
+          docker-compose up
