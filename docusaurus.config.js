@@ -61,7 +61,7 @@ module.exports = {
             },
             {
               label: 'Expression 2',
-              to: 'docs/expression2/intro',
+              to: 'docs/expression2/intro-expression2',
             },
           ],
         },
