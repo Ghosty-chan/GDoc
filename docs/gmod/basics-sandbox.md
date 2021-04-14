@@ -118,13 +118,3 @@ _(atleast aslong as you start like this)_
 1. Try build your first shelter with frozen props
 2. Unfreeze the roof? not good!
 3. Use tools!
-
----
-
-Next up follow [Physgun](basics-gmod-physgun)
-
----
-
-
-Or if you know the physgun & its snappy function
-head directly to [Tools](basics-gmod-tools)
