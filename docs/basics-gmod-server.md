@@ -8,12 +8,12 @@ sidebar_label: Multiplayer
 
 _Well like any other games_
 
-- 🎩 Respect others _and they'll respect you!_
-- 👀 Watch out for others_, you don't like it too_
-- 🌌 Be Creative, no-one needs to re-use stuff from others!
-- 😈 Listen to others, don't be a jerk!
+- 🎩 **Respect** others _and they'll respect you!_
+- 👀 Watch out for **others**, you don't like it too_
+- 🌌 **Be Creative**, no-one needs to re-use stuff from others!
+- 😈 **Listen** to others, don't be a jerk!
 - 🛑 **LISTEN TO STAFF AND FOLLOW**_, they don't jail you for no reason atleast not on UB_
-- 💡 Use your common sense
+- 💡 Use your **common sense**
 
 ### Gamemodes
 - [Sandbox](gmod/basics-gmod-sandbox)
@@ -26,9 +26,9 @@ We split between
 
 ### Workshop Addons
 
-do I need to explain? 😁
+*do I need to explain?* 😁
 
-Basicly just dont get too much, but you need all the server has in use! Otherwise you'll see errors,
+Basicly just don't get too much, but you need all the server has in use! Otherwise you'll see errors,
 
 this can also happen when for example you join a server too fast, before all addons are loaded in mainmenu! _(me with 600 for example needs to wait some seconds.. on an M2 SSD...)_
 
@@ -36,7 +36,7 @@ this can also happen when for example you join a server too fast, before all add
 
 Steam Overlay | Browser to Workshop Link (found in motd)
 
-### Joining the Server
+## Joining the Server
 
 so far you should have done that by yourself 🚀
 Good Job! so far ;)
@@ -56,10 +56,11 @@ We can gain some ideas by the images provided, and any view of how this can look
 
 Nice! But I'm only here to fight!
 
-## Motd
+## Rules & Motd
+
 ![Motdscreen](/gmod_img/servers/gmod_7GnnTWUWGG.png)
 
-Oh, finally!
+Oh, finally! **READ THIS ATLEAST BRIEFLY**
 
 ### **❗ 🛑 STOP ❗**
 
